@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/add.png</file>
+        <file>img/database-3.png</file>
+        <file>img/delete.png</file>
+        <file>img/edit.png</file>
+        <file>img/search.png</file>
+        <file>img/printer-tool.png</file>
+        <file>img/reload.png</file>
+    </qresource>
+</RCC>
